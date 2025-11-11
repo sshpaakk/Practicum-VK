@@ -24,6 +24,6 @@ RuStore app android
 
       В верхней панели выбрать устройство
 
-      Нажать ▶ Run
+      Нажать Run
 # Видео демонстрация работы приложения
 https://rutube.ru/video/private/66d33f159ddece67dc21040b0de6c04b/?p=y5fv-0yw_KGiSFkMVZenhg
