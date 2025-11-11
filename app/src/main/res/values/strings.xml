@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RuStore</string>
+    <string name="go_to_store">Перейти в магазин</string>
+    <string name="categories">Категории</string>
+    <string name="install">Установить</string>
+    <string name="back">Назад</string>
+</resources>
